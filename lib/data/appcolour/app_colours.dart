@@ -24,7 +24,7 @@ class AppColors {
       Color(0xFFD35400); // Deep Orange (Strong, Not Playful)
 }
 
-const supabaseUrl = 'https://exuowfnqzbfhpymosrff.supabase.co';
+const supabaseUrl = '';
 const supabaseKey = String.fromEnvironment(
-  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV4dW93Zm5xemJmaHB5bW9zcmZmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzk0MzE0NTAsImV4cCI6MjA1NTAwNzQ1MH0.SlMB-KN705AiVAihF5_qprCNlFUaVD17cJGwW_eHsEc',
+  '',
 );
